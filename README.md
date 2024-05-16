@@ -152,7 +152,8 @@ Humidity:Humidity
 }
 ```
 # OUTPUT:
-![WhatsApp Image 2024-05-16 at 14 56 08_37fa7d70](https://github.com/SowmyaVisvanathan/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/119475775/f2aa492c-f41c-4755-a227-e7d05fd95fe0)
+
+![WhatsApp Image 2024-05-16 at 14 56 10_3b4c1034](https://github.com/naveen-m0804/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/117974950/3c8f7b7c-5fb0-4e0e-9726-439e4e3cbd06)
 
 # RESULT:
 
